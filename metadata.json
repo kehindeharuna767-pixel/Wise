@@ -1,0 +1,6 @@
+{
+  "name": "Wise Self — Psychotherapy with Behnam Abdevand, MBACP",
+  "description": "Relationship-focused psychotherapy, couples therapy, and individual counseling with Behnam Abdevand, MBACP in Chorlton, Manchester and online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
